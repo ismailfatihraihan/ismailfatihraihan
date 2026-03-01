@@ -3,7 +3,6 @@
 Informatics student at Universitas Pendidikan Indonesia, passionate about building things with code.
 Interested in web development, AI, and data science. | 卒業予定 2027年9月 | 日本語学習中
 
----
 
 ## Tech Stack
 
@@ -38,13 +37,9 @@ Interested in web development, AI, and data science. | 卒業予定 2027年9月 
 ![Microsoft Fabric](https://img.shields.io/badge/Microsoft_Fabric-0078D4?style=flat&logo=microsoft&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 
----
-
 ## Contact
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/ismail-fatih-raihan-873369348)
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:ismailfatihraihan@gmail.com)
 
----
-
-*A grain of sand amidst the vastness of computer science.*
+*A grain of sand amidst the vastness of computer science.* Looking for work opportunities in Japan.
