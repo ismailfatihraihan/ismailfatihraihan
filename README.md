@@ -42,4 +42,4 @@ Interested in web development, AI, and data science. | 卒業予定 2027年9月 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/ismail-fatih-raihan-873369348)
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:ismailfatihraihan@gmail.com)
 
-*A grain of sand amidst the vastness of computer science.* Looking for work opportunities in Japan.
+Looking for work opportunities in Japan.
